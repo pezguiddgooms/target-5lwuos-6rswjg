@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (9e4cda0179538774)
+project:
+  name: target-5lwuos-6rswjg
+  tag: 9e4cda0179538774
+  env: production
+cfg_anchor62qr7s:
+  enabled: true
+  workers: 6
+cfg_flux4nbe9f:
+  timeout_sec: 30
+  retry: 3
+cfg_matrixzdv8x2:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
