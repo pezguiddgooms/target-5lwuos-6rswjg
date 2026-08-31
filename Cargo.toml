@@ -1,0 +1,9 @@
+[package]
+name = "target_5lwuos_6rswjg"
+version = "0.1.88"
+edition = "2021"
+description = "Utility scaffold — tag 9e4cda01"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
